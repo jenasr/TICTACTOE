@@ -1,0 +1,10 @@
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\bin\Debug\TICTACTOE.exe.config
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\bin\Debug\TICTACTOE.exe
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\bin\Debug\TICTACTOE.pdb
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.csprojAssemblyReference.cache
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.Form1.resources
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.Properties.Resources.resources
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.csproj.GenerateResource.cache
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.csproj.CoreCompileInputs.cache
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.exe
+E:\Made Games\C# Lessons\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.pdb
